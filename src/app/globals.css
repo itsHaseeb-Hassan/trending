@@ -2,4 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+.pagination-container {
+  margin: 20px; /* Adjust the value as needed */
+}
 
+.pagination {
+  display: flex;
+}
+
+.pagination li {
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.pagination a {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: gray;
+}
+
+.pagination .active a {
+  background-color: rgb(255, 170, 0);
+  color: black;
+  width: 30px; /* Adjust the width as needed */
+}
