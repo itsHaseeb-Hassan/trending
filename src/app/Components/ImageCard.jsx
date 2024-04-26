@@ -6,7 +6,7 @@ import ReactPaginate from 'react-paginate';
 import jsonData from '../constant/data.json'; 
 
 const ImageCard = ({ imageUrl, imageText }) => (
-  <Link href="/products/id">
+  <Link href={`/products/${imageText}`}>
   <div className="max-w-xl mx-auto w-[300px]">
     <Image src={imageUrl} alt="Your Image" width={200} height={150} className="w-full h-auto" />
     <div className="p-3">
