@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* body{
+  background-color: white;
+}
+
 .pagination-container {
   margin: 20px; /* Adjust the value as needed */
 }
