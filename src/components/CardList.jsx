@@ -5,14 +5,15 @@ const CardList = ({ list }) => {
     const [isHovered, setIsHovered] = useState(false);
     return (
         <Link href={`/products/${list?.id}`}>
+           
             <div className="max-w-xl mx-auto w-[300px] overflow-hidden">
                 <div
                     className={`w-full h-[300px] bg-cover bg-center  ${isHovered ? "transition-all duration-1000 ease-in-out transform hover:scale-110" : ""
                         }`}
                     style={{
                         backgroundImage: isHovered
-                            ? `url(${list?.imageUrl})`
-                            : 'url("/images/1-16.png")'  // Normal image URL
+                            ? `url(${list?.hoverdUrl})`
+                            : `url(${list?.imageUrl})`  // Normal image URL
                     }}
                     onMouseEnter={() => setIsHovered(true)}
                     onMouseLeave={() => setIsHovered(false)}

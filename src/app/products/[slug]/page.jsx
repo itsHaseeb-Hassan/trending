@@ -17,10 +17,10 @@ const Product = ({ params }) => {
 
     return (
         <div>
-            <div className="container flex mt-5 mb-16">
+            <div className="container flex flex-col mt-5 mb-16 md:flex-row">
                 <div className='mx-8'>
                     <Image src={product.productImages[activeImag]?.url} alt={product.imageText} width={800} height={50} />
-                    <div className='flex gap-x-3 pt-4  '>
+                    <div className='grid grid-cols-3 gap-2 pt-4 '>
                         {
                             product.productImages?.map((pro) => (
                                 <Image onClick={() => setActiveImg(pro.id)} key={pro.id} src={pro?.url} width={200} height={200} className={`${activeImag === pro?.id ? 'opacity-[0.5]' : 'opacity-1'} cursor-pointer`} alt="product_imgs" />
@@ -29,15 +29,15 @@ const Product = ({ params }) => {
                     </div>
                 </div>
                 <div>
-                    <h2 className='font-bold text-2xl'>{product.imageText}</h2>
-                    <h2 className='text-yellow-400 text-2xl'>{product.imagePrice}</h2>
-                    <form className="p-4">
-                        <div className="mb-4">
+                    <h2 className='font-bold  my-5 md:font-bold md:text-2xl'>{product.imageText}</h2>
+                    <h2 className='text-yellow-400 sm-mb-2 md:text-2xl md:mb-5 md:font-bold '>{product.imagePrice}</h2>
+                    <form className="p-4 mt-5">
+                        <div className="md:mb-4">
                             <label className="block text-gray-700 text-sm font-bold mb-2" for="inputText">
                                 Your Text
                             </label>
                             <input
-                                class="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                className="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                                 id="inputText" type="text" placeholder="Text Field" />
                         </div>
                         <div className="mb-4">
@@ -45,7 +45,7 @@ const Product = ({ params }) => {
                                 5 stikers-$17.00
                             </label>
                             <select
-                                className="block appearance-none w-full border border-gray-300 rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                                className=" mt-5 block appearance-none w-full border border-gray-300 rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                                 id="dropdown">
                                 <option> 15 stikers-$30.00</option>
                                 <option> 25 stikers-$40.00</option>
@@ -63,15 +63,17 @@ const Product = ({ params }) => {
             </div>
             <hr />
             <div className='px-10'>
-                <h1 className="text-center ">Description</h1>
-                <h2 className='font-bold text-2xl'>{product.imageText}</h2>
-                <p>{product.mainPage[0].mainDescription}</p>
-                <p className='uppercase mt-5'>Detials:</p>
-                <li>{product.mainPage[0].mainDetail.detail1}</li>
-                <li>{product.mainPage[0].mainDetail.detail2}</li>
-                <li>{product.mainPage[0].mainDetail.detail3}</li>
-                <p className='uppercase text-md'>Note:</p>
-                <p>{product.note}</p>
+                <div className="text-center  ">
+                   <span className='border-yellow-400 border-t-2 text-2xl my-2' >Description </span>
+                    </div>
+                <h2 className='font-bold text-3xl mb-3'>{product.imageText}</h2>
+                <p className='mb-3 text-md text-gray-500'>{product.mainPage[0].mainDescription}</p>
+                <p className='uppercase mt-5  text-gray-500 mb-5'>Detials:</p>
+                <li className='text-gray-500 '>{product.mainPage[0].mainDetail.detail1}</li>
+                <li className='text-gray-500'>{product.mainPage[0].mainDetail.detail2}</li>
+                <li className='text-gray-500'>{product.mainPage[0].mainDetail.detail3}</li>
+                <p className='uppercase text-md mt-5 text-gray-500'>Note:</p>
+                <p className='text-gray-500 mt-3'>{product.note}</p>
             </div>
 
             <div className='px-3'>
