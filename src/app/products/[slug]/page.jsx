@@ -20,7 +20,7 @@ const Product = ({ params }) => {
             <div className="container flex flex-col mt-5 mb-16 md:flex-row">
                 <div className='mx-8'>
                     <Image src={product.productImages[activeImag]?.url} alt={product.imageText} width={800} height={50} />
-                    <div className='grid grid-cols-3 gap-2 pt-4 '>
+                    <div className='grid grid-cols-4 gap-2 pt-4 '>
                         {
                             product.productImages?.map((pro) => (
                                 <Image onClick={() => setActiveImg(pro.id)} key={pro.id} src={pro?.url} width={200} height={200} className={`${activeImag === pro?.id ? 'opacity-[0.5]' : 'opacity-1'} cursor-pointer`} alt="product_imgs" />
@@ -68,6 +68,7 @@ const Product = ({ params }) => {
                     </div>
                 <h2 className='font-bold text-3xl mb-3'>{product.imageText}</h2>
                 <p className='mb-3 text-md text-gray-500'>{product.mainPage[0].mainDescription}</p>
+                <p className='mb-3 text-md text-gray-500'>{product.mainPage[0].mainCustom}</p>
                 <p className='uppercase mt-5  text-gray-500 mb-5'>Detials:</p>
                 <li className='text-gray-500 '>{product.mainPage[0].mainDetail.detail1}</li>
                 <li className='text-gray-500'>{product.mainPage[0].mainDetail.detail2}</li>

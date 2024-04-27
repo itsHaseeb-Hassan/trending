@@ -1,105 +1,682 @@
 [
   {
     "id": 1,
-    "imageUrl": "/images/1-10.png",
-    "hoverdUrl": "/images/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-2-800x800 (1).webp",
-    "imageText": "If You can read this Drink Water Reminder sticker",
+    "imageUrl": "/images/first/3-14.png",
+    "hoverdUrl": "/images/first/2-21.png",
+    "imageText": "Personalized Baby On Board Sticker",
     "imagePrice": "$17.00",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "One of our best selling stickers now available! On this Personalized Baby On Board Sticker, let's add your baby's name for a personalized look. The max letters is 9.",
+        "mainCustom": "You can customize this design with your kid's name.",
         "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+          "detail1": "Type: Die cut sticker",
+          "detail2": "Materials: Vinyl Sticker",
+          "detail3": "Size: about 5.1 W x 3.9 H.",
+          "detail4": "Stickers can be placed on your laptop, water bottle, etc. High quality and durable vinyl, indoor and outdoor use. Waterproof and weatherproof."
         }
       }
     ],
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/first/3-14.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/first/2-21.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/first/Untitled-1-1-150x150.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
     "id": 2,
-    "imageUrl": "/images/1-16.png",
-    "imageText": "Custom Holographic Mermaid Stickers",
+    "imageUrl": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-jpg-webp-700x700.png",
+    "hoverdUrl": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-3-jpg-webp-700x700.png",
+    "imageText": "I'm not like a regular Mom I'm a Cool Mom custom sticker",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "This funny sticker design featuring the iconic quote I'm not like a regular Mom I'm a Cool Mom. This will be perfect to celebrate and show love to your mother on Mother's Day or any other day in your life with her.",
+        "mainCustom": "Especially, you can put in any adjective that best describes your mom, such as Funny, Hot, Dance, or you can make it into Dog Mom, Cat Mom in case your mother is into animals and cute pets.",
         "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+          "detail1": "Type: Die-cut sticker",
+          "detail2": "Size: 4.5″ W x 1″ H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
         }
       }
     ],
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-jpg-webp-700x700.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-3-jpg-webp-700x700.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-2-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-4-jpg-webp-700x700.png"
       }
     ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+    "note": "Please note that actual colors may vary slightly from the color you see on your computer screen."
   },
   {
     "id": 3,
-    "imageUrl": "/images/3.1-1.png",
-    "imageText": "Custom Sticker Have a dope day tie dye Sticker",
+    "imageUrl": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png",
+    "hoverdUrl": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-2-jpg-webp-700x700.png",
+    "imageText": "ChatGPT Funny Die-cut Stickers - Yes Boss I am ChatGPT-ing on it",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "Put a funny and trending phrase “Yes boss, I am ChatGPTing on it to address the madness with this new technology. Perfect for laptop stickers, water bottles, folders, journals, etc.",
+        "mainCustom": "You can change the text Yes Boss I am ChatGPT-ing on it to Yes teacher/mom or any thing you can imagine to create a witty stickers.",
         "mainDetail": {
           "detail1": "Type: die cut sticker",
           "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
         }
       }
     ],
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-2-jpg-webp-700x700.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/third/Yes-Mom-I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/third/I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
     "id": 4,
-    "imageUrl": "/images/5.png",
+    "imageUrl": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-2-150x150.png",
+    "imageText": "Here I Go Again in My Gay Little Car Funny Bumper Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This funny bumper sticker is sure to get a few laughs! Putting this Here I Go Again in My Gay Little Car Stickers on your car is a humorous way to express your pride in the LGBTQ community anywhere on your way!",
+        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDetail": {
+          "detail1": "Type: Bumper sticker",
+          "detail2": "Size: 11.5″ W x 3″ H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-2-150x150.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-3-150x150.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-4-150x150.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 5,
+    "imageUrl": "/images/fifth/2-1-700x700.png",
+    "hoverdUrl":"/images/fifth/5-700x700.png",
+    "imageText": "Customize Team Sport Number Sticker",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This Team Sport Number sticker is one of our best selling stickers!",
+        "mainCustom": "In this design, you can customize your number as your wish!",
+        "mainDetail": {
+          "detail1": "Type: Transfer sticker",
+          "detail2": "Size: about 2.5 x 2.5 inches.",
+          "detail3": "Stickers can be placed on your laptop, water bottle, etc. High quality and durable vinyl, indoor and outdoor use. Waterproof and weatherproof."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/fifth/2-1-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/fifth/5-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/fifth/4-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/fifth/3-1-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 6,
+    "imageUrl": "/images/sixth/2.1-1-700x700.png",
+    "hoverdUrl":"/images/sixth/3.1-1-700x700.png",
+    "imageText": "Custom Just Smile and Go Marine Animals Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
+        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDetail": {
+          "detail1": "Type: die cut sticker",
+          "detail2": "Size: about 5 W x 5.2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/sixth/2.1-1-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/sixth/3.1-1-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/sixth/4.1-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/sixth/1.1-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 7,
+    "imageUrl": "/images/seventh/Spotify-Code-Waterproof-Vinyl-Sticker-1-700x700.png",
+    "hoverdUrl":"/images/seventh/Spotify-Code-Waterproof-Vinyl-Sticker-2-700x700.png",
+    "imageText": "Waterproof Spotify Code Vinyl Sticker",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This Glossy Spotify Code Vinyl sticker can be placed on laptop, water bottle, hydro flask and more. You can use it both indoor and outdoor cus it is waterproof and weatherproof.",
+        "mainCustom": "In this design, you can customize spotify code area and change the color as your wish! Just put your favorite Spotify song or playlist link in our Spotify Song URL box, we'll create the code and print it for you!",
+        "mainDetail": {
+          "detail1": "Type: rectangle sticker",
+          "detail2": "Size: 3.7 W x 1 H",
+          "detail3": "Material: high quality vinyl, heat resistant and waterproof"
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/seventh/Spotify-Code-Waterproof-Vinyl-Sticker-1-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/seventh/Spotify-Code-Waterproof-Vinyl-Sticker-2-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/seventh/Spotify-Code-Waterproof-Vinyl-Sticker-3-jpg-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 8,
+    "imageUrl": "/images/eighth/BookTok-Sticker-Sheet-for-Spicy-Girls-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/eighth/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-150x150.png",
+    "imageText": "BookTok Sticker Sheet for Spicy Girls",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This BookTok sticker sheet including all the trendiest designs that a BookTok girl will love. From Buy me books and tell me to STFUATTDLAGG to I keep my book spicy design.They can make your TBR notebook, planner or journal will be so inspiratinal. These are also great on your laptop or phone, and spicy on anything you decide to stick them to!!",
+        "mainCustom": "You can choose between 2 sizes of this sticker sheet to suit your needs.",
+        "mainDetail": {
+          "detail1": "Type: Sticker sheet",
+          "detail2": "Size: 4″ W x 6″ H, 8.5″ W x 11″ H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/eighth/BookTok-Sticker-Sheet-for-Spicy-Girls-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/eighth/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-150x150.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 9,
+    "imageUrl": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-1-jpg-700x700.png",
+    "hoverdUrl":"/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-2-jpg-700x700.png",
+    "imageText": "Highly Realistic Custom Pet Photo Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Turn your pet's - your best furry friend photos into stickers so you can stick them to anywhere and show off your love!",
+        "mainCustom": "Send us the photo(s) you love of your adorable pet(s) and we'll make them into super realistic die-cut stickers.",
+        "mainDetail": {
+          "detail1": "Type: die cut sticker",
+          "detail2": "Size: 4 options are 2x2, 3x3, 4x4 and 5x5",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-1-jpg-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-2-jpg-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-3-jpg-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-4-jpg-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 10,
+    "imageUrl": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/tenth/Pet-Photo-Stickers-with-Custom-Name-2-jpg-webp-700x700.png",
+    "imageText": "Cute and Funny Pet Photo Stickers with Custom Name",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Turn your pet's photos into stickers so you can bring them to anywhere and show off your love to anyone! These cute pet photo stickers are for any pets or animals. Perfect for laptop stickers, water bottles, folders, journals, etc.",
+        "mainCustom": "You can put in your pet name or any lovely message to him/her.",
+        "mainDetail": {
+          "detail1": "Type: Die cut sticker",
+          "detail2": "Size: 4 options are 2x2 3x3 4x4 and 5x5",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-2-jpg-webp-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-1-jpg-webp-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 11,
+    "imageUrl": "/images/eleventh/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/eleventh/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-jpg-webp-700x700.png",
+    "imageText": "Buy Me Books and Tell me to STFUATTDLAGG Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This custom Funny BookTok STFUATTDLAGG design will show how trendy you are on TikTok and in literature of course.It's perfect for your TBR notebook, planner or journal, great on your laptop or phone, and spicy on anything you decide to stick it to!!",
+        "mainCustom": "You can customize this trendy stickers with any text you like, from books, coffee, cosmetics to luxury dress, diamond rings or cars.",
+        "mainDetail": {
+          "detail1": "Type: die cut sticker",
+          "detail2": "Size: 5 W x 2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/eleventh/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/eleventh/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-jpg-webp-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/eleventh/Buy-Me-Coffee-and-Tell-me-to-STFUATTDLAGG-Stickers-jpg-webp-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/eleventh/Buy-Me-Stickers-and-Tell-me-to-STFUATTDLAGG-Stickers-jpg-webp-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 12,
+    "imageUrl": "/images/twelth/Emotional-Support-Water-Bottle-Sticker-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/twelth/Emotional-Support-Water-Bottle-Sticker-1-150x150.png",
+    "imageText": "Emotional Support Water Bottle Sticker",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This reminds you to bring your own water bottle to everywhere you go: from school, office, to the gym, or for just a walk so you can have a sip of water anytime.Ideal for your water bottle, tumblers, or laptops, tablets, phone cases, etc.",
+        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDetail": {
+          "detail1": "Type: Rounded corner sticker",
+          "detail2": "Size: about 5 W x 5.2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/twelth/Emotional-Support-Water-Bottle-Sticker-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/twelth/Emotional-Support-Water-Bottle-Sticker-1-150x150.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/twelth/Emotional-Support-Water-Bottle-Sticker-2-150x150.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/twelth/Emotional-Support-Water-Bottle-Sticker-3-150x150.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 13,
+    "imageUrl": "/images/first/3-14.png",
+    "hoverdUrl":"/images/first/2-21.png",
+    "imageText": "Personalized Baby On Board Sticker",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "One of our best selling stickers now available! On this Personalized Baby On Board Sticker, let's add your baby's name for a personalized look. The max letters is 9.",
+        "mainCustom": "You can customize this design with your kid's name.",
+        "mainDetail": {
+          "detail1": "Type: die cut sticker",
+          "detail2": "Size: about 5 W x 5.2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/first/3-14.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/first/2-21.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/first/Untitled-1-1-150x150.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 14,
+    "imageUrl": "/images/eighth/BookTok-Sticker-Sheet-for-Spicy-Girls-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/eighth/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-150x150.png",
+    "imageText": "BookTok Sticker Sheet for Spicy Girls",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This BookTok sticker sheet including all the trendiest designs that a BookTok girl will love. From Buy me books and tell me to STFUATTDLAGG to I keep my book spicy design.They can make your TBR notebook, planner or journal will be so inspiratinal. These are also great on your laptop or phone, and spicy on anything you decide to stick them to!!",
+        "mainCustom": "You can choose between 2 sizes of this sticker sheet to suit your needs.",
+        "mainDetail": {
+          "detail1": "Type: die cut sticker",
+          "detail2": "Size: about 5 W x 5.2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/eighth/BookTok-Sticker-Sheet-for-Spicy-Girls-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/eighth/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-150x150.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 15,
+    "imageUrl": "/images/fifteen/4-7-700x700.png",
+    "hoverdUrl":"/images/fifteen/4-7-700x700.png",
+    "imageText": "Custom Sticker Have a dope day tie dye Sticker",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Boost your morning spirit with this Have a dope day sticker!",
+        "mainCustom": "In this design, pick your favorite symbol of your own!",
+        "mainDetail": {
+          "detail1": "Type: circle sticker",
+          "detail2": "Size: diameter 2'",
+          "detail3": "Material: High quality and durable vinyl, waterproof and weatherproof."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/fifteen/4-7-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/fifteen/4-7-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/fifteen/4-7-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/fifteen/4-7-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 16,
+    "imageUrl": "/images/sixteen/Personalized-Real-Foil-Elegant-Wedding-Stickers-for-Envelope-Seals-1-700x700.png",
+    "hoverdUrl":"/images/sixteen/Personalized-Real-Foil-Elegant-Wedding-Stickers-for-Envelope-Seals-3-700x700.png",
+    "imageText": "Personalized Real Foil Elegant Wedding Stickers for Envelope Seals",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "These personalized foil stickers for wedding make DIY'ing your invitation a breeze! They are the perfect touch to add to your invitation/thank-you envelopes, or favors.",
+        "mainCustom": "You can customize this design with your name, your partner's name and your wedding date as your wish!",
+        "mainDetail": {
+          "detail1": "Type: Clear sticker",
+          "detail2": "Size: diameter 37mm (1.45)",
+          "detail3": "Material: high quality sticker and foil, self-adhesive, resistant to water and heat"
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/sixteen/Personalized-Real-Foil-Elegant-Wedding-Stickers-for-Envelope-Seals-1-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/sixteen/Personalized-Real-Foil-Elegant-Wedding-Stickers-for-Envelope-Seals-3-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/sixteen/Personalized-Real-Foil-Elegant-Wedding-Stickers-for-Envelope-Seals-2-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/sixteen/Personalized-Real-Foil-Elegant-Wedding-Stickers-for-Envelope-Seals-4-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 17,
+    "imageUrl": "/images/seventeen/Custom-Name-Baseball-Wall-Decal-for-Kids-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/seventeen/Custom-Name-Baseball-Wall-Decal-for-Kids-3-jpg-webp-700x700.png",
+    "imageText": "Baseball Wall Decal with Custom Name for Kids",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Put your kids name on this baseball wall decal and turn their room into their own sport game. Perfect for nursery room decor, kids room decor, boys and girls room decor. Can be used on wall, door, closet or any surface you want.",
+        "mainCustom": "You can personalize this Baseball wall decal with your kid's name and custom the decal's color.",
+        "mainDetail": {
+          "detail1": "Type: Clear sticker",
+          "detail2": "Size: 4 options for the height: 10 inches; 15 inches; 17 inches; 22 inches. The width will be varied based on the length of your kid's name.",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/seventeen/Custom-Name-Baseball-Wall-Decal-for-Kids-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/seventeen/Custom-Name-Baseball-Wall-Decal-for-Kids-3-jpg-webp-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/seventeen/Custom-Name-Baseball-Wall-Decal-for-Kids-2-jpg-webp-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/seventeen/Your-color-choices-jpg-webp-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 18,
+    "imageUrl": "/images/eighteen/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-jpg-webp-700x700.webp",
+    "hoverdUrl":"/images/eighteen/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-2-150x150.webp",
+    "imageText": "Mental health stickers Positive Notes to Self Sticker Sheet",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Affirmation and Positivity daily! These simple messages magically impact on anyone mood and mental health, especially if you're struggling. Our dear, it's Okay to Not be Okay, and - You always deserve good things, even on the bad days. We are hopefully these Note to Self stickers remind you that you are enough!",
+        "mainCustom": "These Mental health stickers are wonderful for a water bottle, hydroflask, tumbler, laptop, notebook, journal, or anywhere that can catch your eyes.",
+        "mainDetail": {
+          "detail1": "Type: Sticker sheet",
+          "detail2": "Sheet size: 5.8″ W x 8.3″ H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/eighteen/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-jpg-webp-700x700.webp"
+      },
+      {
+        "id": 1,
+        "url": "/images/eighteen/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-2-150x150.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/eighteen/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-3-150x150.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/eighteen/Mental-health-stickers-Positive-Notes-to-Self-Affirmation-Sticker-Sheet-4-150x150.webp"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 19,
+    "imageUrl": "/images/ninteen/Custom-Holographic-Little-Mermaid-Stickers-1-jpg-700x700.png",
+    "hoverdUrl":"/images/ninteen/Custom-Holographic-Little-Mermaid-Stickers-2-jpg-700x700.png",
+    "imageText": "Custom Holographic Mermaid Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "If you are the big fan of mermaids, this Custom Holographic Mermaid Stickers will help you personalize any of your items: water bottles, laptops, phonecases or notebook.",
+        "mainCustom": "Just put your name on the text box and let our mermaid stickers with holographic effect add a shimmering touch of of the underwater world to yours.",
+        "mainDetail": {
+          "detail1": "Type: Holographic sticker",
+          "detail2": "Size: 3 W x 2 H (approximate)",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/ninteen/Custom-Holographic-Little-Mermaid-Stickers-1-jpg-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/ninteen/Custom-Holographic-Little-Mermaid-Stickers-2-jpg-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/ninteen/Custom-Holographic-Little-Mermaid-Stickers-1-2-jpg-700x700.png"
+      },
+     
+        {
+          "id": 3,
+          "url": "/images/ninteen/Custom-Holographic-Little-Mermaid-Stickers-4-jpg-700x700.png"
+        }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 20,
+    "imageUrl": "/images/twenty/Personalized-Name-Sticker-for-Water-Bottles-3-scaled-700x700.png",
+    "hoverdUrl":"/images/twenty/Personalized-Name-Sticker-for-Water-Bottles-2-150x150.png",
     "imageText": "Highly Realistic Custom Pet Photo Stickers",
     "mainPage": [
       {
@@ -116,182 +693,204 @@
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/twenty/Personalized-Name-Sticker-for-Water-Bottles-3-scaled-700x700.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/twenty/Personalized-Name-Sticker-for-Water-Bottles-2-150x150.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/twenty/Personalized-Name-Sticker-for-Water-Bottles-4-150x150.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/twenty/Personalized-Name-Sticker-for-Water-Bottles-150x150.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
-    "id": 5,
-    "imageUrl": "/images/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-800x800.webp",
+    "id": 21,
+    "imageUrl": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-1-jpg.webp",
+    "hoverdUrl":"/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-2-jpg.webp",
+    "imageText": "Mermaid Wall Decal with Custom Name",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Put your or your kids name on this Mermaid wall decal and turn the room into your own underwater world. Perfect for big fan's bedroom, nursery room decor, kids room decor, boys and girls room decor. Can be used on wall, door, closet or any surface you want.",
+        "mainCustom": "You can personalize this Mermaid wall decal with your or your kid's name and choose from 3 color options.",
+        "mainDetail": {
+          "detail1": "Size: 4 options for you (15 x 10 22.5 x 15 25.5 x 17 33 x 22)",
+          "detail2": "Size: about 5 W x 5.2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-1-jpg.webp"
+      },
+      {
+        "id": 1,
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-2-jpg.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-4-150x150.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-3-150x150.webp"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 22,
+    "imageUrl": "/images/twentytwo/6-8.png",
+    "hoverdUrl":"/images/twentytwo/8-4.png",
+    "imageText": "Personalized I Voted Circle Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "One of our best selling stickers now available! For you or someone you love know sign language, this sticker is for you! In this Personalized I Voted Circle Stickers, just write down your text you want on the sticker's surface.",
+        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDetail": {
+          "detail1": "Type: Circle stickers",
+          "detail2": "Size: 4 x 4 inches.",
+          "detail3": "Stickers can be placed on your laptop, water bottle, etc. High quality and durable vinyl, indoor and outdoor use. Waterproof and weatherproof."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/twentytwo/6-8.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/twentytwo/8-4.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/twentytwo/7-3-150x150.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 23,
+    "imageUrl": "/images/twentythree/Custom-Face-Die-cut-Printed-Photo-Stickers-1-1-jpg.webp",
+    "hoverdUrl":"/images/twentythree/Custom-Face-Die-cut-Printed-Photo-Stickers-2-1-jpg.webp",
+    "imageText": "Custom Face Photo Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Our Custom Face Die-cut Printed Photo Stickers are the perfect choice for Father's Day, Mother's Day, parties, anniversaries, holidays, and any special occasion you wish to celebrate!",
+        "mainCustom": "Upload your photo, we will create a custom die-cut sticker featuring the face or faces in your photo. Subjects are trimmed and a white border is added for a classic sticker look.",
+        "mainDetail": {
+          "detail1": "Type: die cut sticker",
+          "detail2": "Size: 5 options (2x2, 3x3, 4x4, 5x5 and 6x6)",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/twentythree/Custom-Face-Die-cut-Printed-Photo-Stickers-1-1-jpg.webp"
+      },
+      {
+        "id": 1,
+        "url": "/images/twentythree/Custom-Face-Die-cut-Printed-Photo-Stickers-2-1-jpg.webp"
+      },
+      {
+        "id": 2,
+        "url": "/images/twentythree/Custom-Face-Die-cut-Printed-Photo-Stickers-3-1-150x150.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/twentythree/Custom-Face-Die-cut-Printed-Photo-Stickers-4-1-150x150.webp"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 24,
+    "imageUrl": "/images/twentyfour/3-10-800x800.png",
+    "hoverdUrl":"/images/twentyfour/1-16.png",
     "imageText": "Personalized Name Sunflower Stickers",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "One of our best selling sunflower stickers are now available!",
+        "mainCustom": "For the sunflower lover, let's add your name for a personalized look. The max letters is 9.",
         "mainDetail": {
           "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+          "detail2": "Size: 3x3",
+          "detail3": "Stickers can be placed on your laptop, water bottle, etc. High quality and durable vinyl, indoor and outdoor use. Waterproof and weatherproof."
         }
       }
     ],
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/twentyfour/3-10-800x800.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/twentyfour/1-16.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/twentyfour/2-15-150x150.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
-    "id": 6,
-    "imageUrl": "/images/Custom-Dog-Name-Paw-Sticker-3.png",
-    "imageText": "BookTok Sticker Sheet for Spicy Girls",
+    "id": 25,
+    "imageUrl": "/images/twentyfive/Custom-Photo-Stickers-for-Family-Couples-Friends-1-jpg.webp",
+    "hoverdUrl":"/images/twentyfive/Custom-Photo-Stickers-for-Family-Couples-Friends-2-jpg.webp",
+    "imageText": "Custom Photo Stickers for Family, Couples, Friends and more",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "Here we can transform your cherished photos into stunning die-cut stickers. Whether it's a photo of loved ones, your adorable pet, or even your beautiful home, we offer the perfect solution.",
+        "mainCustom": "Send us the highest quality photo and we'll make them into pretty die-cut stickers.",
         "mainDetail": {
           "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
+          "detail2": "Size: 5 options (2x2, 3x3 4x4 5x5 and 6x6)",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
         }
       }
     ],
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/twentyfive/Custom-Photo-Stickers-for-Family-Couples-Friends-1-jpg.webp"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/twentyfive/Custom-Photo-Stickers-for-Family-Couples-Friends-2-jpg.webp"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/twentyfive/Custom-Photo-Stickers-for-Family-Couples-Friends-3-150x150.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/twentyfive/Custom-Photo-Stickers-for-Family-Couples-Friends-4-150x150.webp"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
-    "id": 7,
-    "imageUrl": "/images/Custom-Face-Die-cut-Printed-Photo-Stickers-2-1-jpg.webp",
-    "imageText": "Personalized Name Tag Rounded Corner Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 8,
-    "imageUrl": "/images/Custom-Holographic-Little-Mermaid-Stickers-2-jpg.webp",
-    "imageText": "Custom Dog Name Paw Print Sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 1,
-    "imageUrl": "/images/1-10.png",
-    "imageText": "If You can read this Drink Water Reminder sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 2,
-    "imageUrl": "/images/1-16.png",
+    "id": 26,
+    "imageUrl": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-1-jpg.webp",
+    "hoverdUrl":"/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-2-jpg.webp",
     "imageText": "Custom Holographic Mermaid Stickers",
     "mainPage": [
       {
@@ -308,31 +907,110 @@
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-1-jpg.webp"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-2-jpg.webp"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-3-150x150.webp"
+      },
+      {
+        "id": 3,
+        "url": "/images/twentyone/Little-Mermaid-Wall-Decal-with-Custom-Name-for-Princesses-4-150x150.webp"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
-    "id": 3,
-    "imageUrl": "/images/3.1-1.png",
-    "imageText": "Custom Sticker Have a dope day tie dye Sticker",
+    "id": 27,
+    "imageUrl": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-jpg-webp-700x700.png",
+    "hoverdUrl": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-3-jpg-webp-700x700.png",
+    "imageText": "I'm not like a regular Mom I'm a Cool Mom custom sticker",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "This funny sticker design featuring the iconic quote I'm not like a regular Mom I'm a Cool Mom. This will be perfect to celebrate and show love to your mother on Mother's Day or any other day in your life with her.",
+        "mainCustom": "Especially, you can put in any adjective that best describes your mom, such as Funny, Hot, Dance, or you can make it into Dog Mom, Cat Mom in case your mother is into animals and cute pets.",
+        "mainDetail": {
+          "detail1": "Type: Die-cut sticker",
+          "detail2": "Size: 4.5″ W x 1″ H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-3-jpg-webp-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-2-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/second/Im-not-like-a-regular-Mom-Im-a-Cool-Mom-custom-sticker-4-jpg-webp-700x700.png"
+      }
+    ],
+    "note": "Please note that actual colors may vary slightly from the color you see on your computer screen."
+  },
+  {
+    "id": 28,
+    "imageUrl": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png",
+    "hoverdUrl": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-2-jpg-webp-700x700.png",
+    "imageText": "ChatGPT Funny Die-cut Stickers - Yes Boss I am ChatGPT-ing on it",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "Put a funny and trending phrase “Yes boss, I am ChatGPTing on it to address the madness with this new technology. Perfect for laptop stickers, water bottles, folders, journals, etc.",
+        "mainCustom": "You can change the text Yes Boss I am ChatGPT-ing on it to Yes teacher/mom or any thing you can imagine to create a witty stickers.",
         "mainDetail": {
           "detail1": "Type: die cut sticker",
           "detail2": "Size: about 5 W x 5.2 H",
+          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat"
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/third/Yes-Boss-I-am-ChatGPT-ing-on-it-2-jpg-webp-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/third/Yes-Mom-I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/third/I-am-ChatGPT-ing-on-it-Funny-stickers-jpg-webp-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 29,
+    "imageUrl": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-2-150x150.png",
+    "imageText": "Here I Go Again in My Gay Little Car Funny Bumper Stickers",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This funny bumper sticker is sure to get a few laughs! Putting this Here I Go Again in My Gay Little Car Stickers on your car is a humorous way to express your pride in the LGBTQ community anywhere on your way!",
+        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDetail": {
+          "detail1": "Type: Bumper sticker",
+          "detail2": "Size: 11.5″ W x 3″ H",
           "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
         }
       }
@@ -340,31 +1018,73 @@
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-jpg-webp-700x700.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-2-150x150.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-3-150x150.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/fourth/Here-I-Go-Again-in-My-Gay-Little-Car-Funny-Bumper-Stickers-4-150x150.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
-    "id": 4,
-    "imageUrl": "/images/5.png",
+    "id": 30,
+    "imageUrl": "/images/fifth/2-1-700x700.png",
+    "hoverdUrl":"/images/fifth/5-700x700.png",
+    "imageText": "Customize Team Sport Number Sticker",
+    "mainPage": [
+      {
+        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
+        "mainDescription": "This Team Sport Number sticker is one of our best selling stickers!",
+        "mainCustom": "In this design, you can customize your number as your wish!",
+        "mainDetail": {
+          "detail1": "Type: Transfer sticker",
+          "detail2": "Size: about 2.5 x 2.5 inches.",
+          "detail3": "Stickers can be placed on your laptop, water bottle, etc. High quality and durable vinyl, indoor and outdoor use. Waterproof and weatherproof."
+        }
+      }
+    ],
+    "productImages": [
+      {
+        "id": 0,
+        "url": "/images/fifth/2-1-700x700.png"
+      },
+      {
+        "id": 1,
+        "url": "/images/fifth/5-700x700.png"
+      },
+      {
+        "id": 2,
+        "url": "/images/fifth/4-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/fifth/3-1-700x700.png"
+      }
+    ],
+    "note": "If you still have any questions or want something a little more customized, please visit this link here."
+  },
+  {
+    "id": 31,
+    "imageUrl": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-1-jpg-700x700.png",
+    "hoverdUrl":"/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-2-jpg-700x700.png",
     "imageText": "Highly Realistic Custom Pet Photo Stickers",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "Turn your pet's - your best furry friend photos into stickers so you can stick them to anywhere and show off your love!",
+        "mainCustom": "Send us the photo(s) you love of your adorable pet(s) and we'll make them into super realistic die-cut stickers.",
         "mainDetail": {
           "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
+          "detail2": "Size: 4 options are 2x2, 3x3, 4x4 and 5x5",
           "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
         }
       }
@@ -372,31 +1092,36 @@
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-1-jpg-700x700.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-2-jpg-700x700.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-3-jpg-700x700.png"
+      },
+      {
+        "id": 3,
+        "url": "/images/ninth/Highly-Realistic-Custom-Pet-Photo-Stickers-4-jpg-700x700.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
   },
   {
-    "id": 5,
-    "imageUrl": "/images/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-800x800.webp",
-    "imageText": "Personalized Name Sunflower Stickers",
+    "id": 32,
+    "imageUrl": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-jpg-webp-700x700.png",
+    "hoverdUrl":"/images/tenth/Pet-Photo-Stickers-with-Custom-Name-2-jpg-webp-700x700.png",
+    "imageText": "Cute and Funny Pet Photo Stickers with Custom Name",
     "mainPage": [
       {
         "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
+        "mainDescription": "Turn your pet's photos into stickers so you can bring them to anywhere and show off your love to anyone! These cute pet photo stickers are for any pets or animals. Perfect for laptop stickers, water bottles, folders, journals, etc.",
+        "mainCustom": "You can put in your pet name or any lovely message to him/her.",
         "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
+          "detail1": "Type: Die cut sticker",
+          "detail2": "Size: 4 options are 2x2 3x3 4x4 and 5x5",
           "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
         }
       }
@@ -404,625 +1129,18 @@
     "productImages": [
       {
         "id": 0,
-        "url": "/images/1-10.png"
+        "url": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-jpg-webp-700x700.png"
       },
       {
         "id": 1,
-        "url": "/images/1-16.png"
+        "url": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-2-jpg-webp-700x700.png"
       },
       {
         "id": 2,
-        "url": "/images/5.png"
+        "url": "/images/tenth/Pet-Photo-Stickers-with-Custom-Name-1-jpg-webp-700x700.png"
       }
     ],
     "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 6,
-    "imageUrl": "/images/Custom-Dog-Name-Paw-Sticker-3.png",
-    "imageText": "BookTok Sticker Sheet for Spicy Girls",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 7,
-    "imageUrl": "/images/Custom-Face-Die-cut-Printed-Photo-Stickers-2-1-jpg.webp",
-    "imageText": "Personalized Name Tag Rounded Corner Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 8,
-    "imageUrl": "/images/Highly-Realistic-Custom-Pet-Photo-Stickers-2-jpg.webp",
-    "imageText": "Custom Dog Name Paw Print Sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 1,
-    "imageUrl": "/images/1-10.png",
-    "imageText": "If You can read this Drink Water Reminder sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 2,
-    "imageUrl": "/images/1-16.png",
-    "imageText": "Custom Holographic Mermaid Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 3,
-    "imageUrl": "/images/3.1-1.png",
-    "imageText": "Custom Sticker Have a dope day tie dye Sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 4,
-    "imageUrl": "/images/5.png",
-    "imageText": "Highly Realistic Custom Pet Photo Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 5,
-    "imageUrl": "/images/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-800x800.webp",
-    "imageText": "Personalized Name Sunflower Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 6,
-    "imageUrl": "/images/Custom-Dog-Name-Paw-Sticker-3.png",
-    "imageText": "BookTok Sticker Sheet for Spicy Girls",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 7,
-    "imageUrl": "/images/Custom-Face-Die-cut-Printed-Photo-Stickers-2-1-jpg.webp",
-    "imageText": "Personalized Name Tag Rounded Corner Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 8,
-    "imageUrl": "/images/Custom-Holographic-Little-Mermaid-Stickers-2-jpg.webp",
-    "imageText": "Custom Dog Name Paw Print Sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 1,
-    "imageUrl": "/images/1-10.png",
-    "imageText": "If You can read this Drink Water Reminder sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 2,
-    "imageUrl": "/images/1-16.png",
-    "imageText": "Custom Holographic Mermaid Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 3,
-    "imageUrl": "/images/3.1-1.png",
-    "imageText": "Custom Sticker Have a dope day tie dye Sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 4,
-    "imageUrl": "/images/5.png",
-    "imageText": "Highly Realistic Custom Pet Photo Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 5,
-    "imageUrl": "/images/Buy-Me-Books-and-Tell-me-to-STFUATTDLAGG-Stickers-2-800x800.webp",
-    "imageText": "Personalized Name Sunflower Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 6,
-    "imageUrl": "/images/Custom-Dog-Name-Paw-Sticker-3.png",
-    "imageText": "BookTok Sticker Sheet for Spicy Girls",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 7,
-    "imageUrl": "/images/Custom-Face-Die-cut-Printed-Photo-Stickers-2-1-jpg.webp",
-    "imageText": "Personalized Name Tag Rounded Corner Stickers",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  },
-  {
-    "id": 8,
-    "imageUrl": "/images/Highly-Realistic-Custom-Pet-Photo-Stickers-2-jpg.webp",
-    "imageText": "Custom Dog Name Paw Print Sticker",
-    "mainPage": [
-      {
-        "mainHeading": "Funny Just Smile and Go Penguins Marine Animal Stickers",
-        "mainDescription": "One of our best selling sticker is now restocked! These Custom Just smile and go penguin stickers are now restocked with many more marine animal options. These stickers will make your belongings standout!",
-        "mainCustom": "You can customize your desired sticker by choosing from 4 little cute marine animals: penguin, seal, whale and octopus.",
-        "mainDetail": {
-          "detail1": "Type: die cut sticker",
-          "detail2": "Size: about 5 W x 5.2 H",
-          "detail3": "Material: high quality vinyl, self-adhesive, resistant to water and heat."
-        }
-      }
-    ],
-    "productImages": [
-      {
-        "id": 0,
-        "url": "/images/1-10.png"
-      },
-      {
-        "id": 1,
-        "url": "/images/1-16.png"
-      },
-      {
-        "id": 2,
-        "url": "/images/5.png"
-      }
-    ],
-    "note": "If you still have any questions or want something a little more customized, please visit this link here."
-  }]
+  }
+  ]
  
