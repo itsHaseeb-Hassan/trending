@@ -1,9 +1,9 @@
-import ImageCard from "../Components/ImageCard";
+import ImageCardList from "@/components/ImageCard";
 
 export default function Home() {
   return (
     <>
-      <ImageCard />
+      <ImageCardList />
     </>
   );
 }
