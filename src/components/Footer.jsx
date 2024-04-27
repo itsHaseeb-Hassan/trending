@@ -1,5 +1,11 @@
 import Image from "next/image"
 import Link from "next/link"
+import {
+    FaFacebook,
+    FaPinterest,
+    FaLinkedin,
+    FaEnvelope,
+  } from "react-icons/fa";
 const Footer = () => {
   return (
     <>
@@ -67,7 +73,7 @@ const Footer = () => {
             </ul>
         </div>
         <div>
-            <Image src="/images/customany-logo-header.png" alt="logo alt" className="mt-2" width={150} height={200} />
+            <Image src="/images/logo.jpg" alt="logo alt" className="mt-2" width={150} height={200} />
             <ul className="text-gray-500 dark:text-gray-400 text-sm">
                 <li className="mb-4 flex items-center mt-5">
                     <Image src="/images/wd-envelope-dark.svg" alt="icon alt" className=" mr-2" width={12} height={20}/>
@@ -84,6 +90,14 @@ const Footer = () => {
                 <li className="mb-4 flex items-center">
                     <Image src="/images/Untitled-800-×-800-px-2-1-14x14.png"  alt="icon alt" className=" mr-2" width={12} height={20}/>
                     <Link href="#" className=" hover:text-black">Support Time: Mon - Sun 9:00am - 5:30pm (CT)</Link>
+                </li>
+                <li className="mb-4 flex items-center">
+                <div className=" mt-1 flex ms-5">
+              <FaFacebook  />
+              <FaPinterest className="ms-2"/>
+              <FaLinkedin className="ms-2"/>
+              <FaEnvelope className="ms-2"/>
+            </div>
                 </li>
             </ul>
         </div>

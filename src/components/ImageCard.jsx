@@ -21,9 +21,9 @@ const ImageCardList = () => {
   const paginatedData = jsonData.slice(currentPage * itemsPerPage, (currentPage + 1) * itemsPerPage);
 
   return (
-    <div className='bg-w px-[30px]'>
-      <h1 className="text-xl font-bold text-center pt-8 pb-2">TRENDING <span className='text-yellow-400'>STICKERS</span></h1>
-      <div className="grid gap-5 max-lx:grid-cols-4 lg:grid-cols-4 md:grid-cols-2 grid-cols-1">
+    <div className=' px-[39px] w-[1250px]'>
+      <h1 className="palanquin-dark-regular text-2xs  text-center ms-24 mt-8 mb-2 text-[#242424]">TRENDING <span className='text-[#f68c2f]'>STICKERS</span></h1>
+      <div className="grid gap-x-32 max-lx:grid-cols-4 lg:grid-cols-4 md:grid-cols-2 grid-cols-1">
         {paginatedData.map(item => (
           <CardList key={item.id} list={item} />
         ))}
