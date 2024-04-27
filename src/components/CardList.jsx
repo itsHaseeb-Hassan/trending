@@ -6,9 +6,9 @@ const CardList = ({ list }) => {
     return (
         <Link href={`/products/${list?.id}`}>
            
-            <div className="max-w-xl mx-auto w-[300px] overflow-hidden">
+            <div className="max-w-xl mx-auto w-[300px] overflow-hidden  ">
                 <div
-                    className={`w-full h-[300px] bg-cover bg-center  ${isHovered ? "transition-all duration-1000 ease-in-out transform hover:scale-110" : ""
+                    className={`w-full h-[300px] bg-cover bg-center ${isHovered ? "transition-all duration-1000 ease-in-out transform hover:scale-110" : ""
                         }`}
                     style={{
                         backgroundImage: isHovered
@@ -19,9 +19,9 @@ const CardList = ({ list }) => {
                     onMouseLeave={() => setIsHovered(false)}
                 ></div>
             </div>
-            <div className='w-[300px]'>
-                <h2 className=' palanquin-dark-regular text-3xs pt-2 text-center  justify-center hover:text-[#69727d]'>{list?.imageText}</h2>
-            </div>
+            <div className='w-full md:w-[300px] sm:w-[200px]'>
+    <h2 className='palanquin-dark-regular text-3xs pt-2 text-center justify-center hover:text-[#69727d]'>{list?.imageText}</h2>
+</div>
 
         </Link>
 

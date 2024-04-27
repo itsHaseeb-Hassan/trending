@@ -114,7 +114,7 @@ const Product = ({ params }) => {
             Description{" "}
           </span>
         </div>
-        <h2 className="font-bold text-3xl mb-3">{product.imageText}</h2>
+        <h2 className="palanquin-dark-regular text-2xs mb-3">{product.imageText}</h2>
         <p className="mb-3 text-md text-gray-500">
           {product.mainPage[0].mainDescription}
         </p>
@@ -135,7 +135,7 @@ const Product = ({ params }) => {
         <p className="text-gray-500 mt-3">{product.note}</p>
       </div>
 
-      <div className="px-3">
+      <div className=" px-3">
         <CustomSlider>
           {jsonData?.slice(10).map((list) => (
             <CardList key={list.id} list={list} />
