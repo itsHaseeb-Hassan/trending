@@ -46,8 +46,8 @@ const CartItem = () => {
                 </td>
                 <td className="px-4 py-2 max-w-[500px]">
                   <h2 className="text-start text-[14px] font-semibold text-[#333333] hover:text-[#787878]">
-                    I'm not like a regular Mom I'm a Cool Mom custom sticker
-                    [Edit options]
+                    {`I'm not like a regular Mom I'm a Cool Mom custom sticker
+                    [Edit options]`}
                   </h2>
                   <div className="flex flex-col items-start">
                     <h2 className="text-[14px] font-semibold text-[#333333] ">
