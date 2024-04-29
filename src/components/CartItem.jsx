@@ -9,8 +9,8 @@ const CartItem = () => {
           <GoCheck size={40} />
         </div>
         <p className="text-3xs text-white ms-14">
-          “I'm not like a regular Mom I'm a Cool Mom custom sticker” removed.
-          Undo?
+          {`“I'm not like a regular Mom I'm a Cool Mom custom sticker” removed.
+          Undo?`}
         </p>
       </div>
 
@@ -51,16 +51,20 @@ const CartItem = () => {
                   </h2>
                   <div className="flex flex-col items-start">
                     <h2 className="text-[14px] font-semibold text-[#333333] ">
-                      Custom text : <span className="font-normal">jasuyaia</span>
+                      Custom text :{" "}
+                      <span className="font-normal">jasuyaia</span>
                     </h2>
                     <h2 className="text-[14px] font-semibold text-[#333333] ">
-                      Quantity: <span className="font-normal">5 stickers ($14.00)</span>
+                      Quantity:{" "}
+                      <span className="font-normal">5 stickers ($14.00)</span>
                     </h2>
                   </div>
                 </td>
                 <td className="px-4 py-2">$10.00</td>
                 <td className="px-4 py-2">$10.00</td>
-                <td className="px-4 py-2 text-[#F68c31] palanquin-regular text-3xs">$10.00</td>
+                <td className="px-4 py-2 text-[#F68c31] palanquin-regular text-3xs">
+                  $10.00
+                </td>
               </tr>
             </tbody>
           </table>
