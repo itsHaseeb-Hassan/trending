@@ -19,9 +19,9 @@ const CardList = ({ list }) => {
                     onMouseLeave={() => setIsHovered(false)}
                 ></div>
             </div>
-            <div className='w-full md:w-[300px] sm:w-[200px]'>
+            <div className='w-full'>
     <h2 className='palanquin-dark-regular text-3xs pt-2 text-center justify-center hover:text-[#69727d]'>{list?.imageText}</h2>
-</div>
+</div> 
 
         </Link>
 

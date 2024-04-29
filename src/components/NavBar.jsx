@@ -8,6 +8,7 @@ const NavBar = () => {
         <Link href="#">
           <img src="/images/logo.jpg" className="h-8 w-[200px]" alt="alt logo" />
         </Link>
+      
       </div>
     </nav>
    

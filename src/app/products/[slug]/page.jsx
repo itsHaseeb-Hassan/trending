@@ -4,6 +4,7 @@ import jsonData from "@/constant/data.json";
 import Image from "next/image";
 import CustomSlider from "@/components/CustomeSlider";
 import CardList from "@/components/CardList";
+import Link from "next/link";
 import {
   FaFacebook,
   FaPinterest,
@@ -89,12 +90,13 @@ const Product = ({ params }) => {
                 <option> 35 stikers-$50.00</option>
               </select>
             </div>
-            <button
+           <Link href="/cart"> <button
               className="mt-8 w-full bg-[#F68c31] hover:bg-[#F68c31] text-white font-bold py-4 rounded focus:outline-none focus:shadow-outline"
               type="button"
             >
               ADD TO CART
             </button>
+            </Link>
           </form>
           <div className="text-3xs flex p-4 palanquin-dark-regular">
             <span>Share:</span>
